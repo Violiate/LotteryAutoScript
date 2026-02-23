@@ -100,6 +100,7 @@ module.exports = Object.freeze({
         IGOT_PUSH_KEY: '',
         PUSH_PLUS_TOKEN: '',
         PUSH_PLUS_USER: '',
+        QMSG_SOCKET: '',
         QMSG_KEY: '',
         QMSG_QQ: '',
         SMTP_HOST: '',
@@ -108,7 +109,9 @@ module.exports = Object.freeze({
         SMTP_PASS: '',
         SMTP_TO_USER: '',
         GOTIFY_URL: '',
-        GOTIFY_APPKEY: ''
+        GOTIFY_APPKEY: '',
+        FS_BOT_WEBHOOK: '',
+        FS_BOT_SECRET: ''
     },
 
     /**
