@@ -11,3 +11,7 @@ dist/
 package-lock.json
 env.js
 my_config.js
+env.example.js
+my_config_old.js
+my_config.example.js
+
